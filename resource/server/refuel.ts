@@ -4,9 +4,9 @@ import {
   notify,
   onClientCallback,
   progressFor,
-} from "@aifivem/lib/server";
-import { fail } from "@aifivem/lib/shared";
-import type { ActionResult } from "@aifivem/shared";
+} from "@aicore8/lib/server";
+import { fail } from "@aicore8/lib/shared";
+import type { ActionResult } from "@aicore8/shared";
 import { Locale } from "common";
 import { EVENTS } from "common/fuel";
 import { core, settings } from "./content";

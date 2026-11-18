@@ -1,6 +1,6 @@
-import type { PanelSchema } from "@aifivem/shared";
+import type { PanelSchema } from "@aicore8/shared";
 import { DEFAULT_BLIP, ELECTRIC_MODELS } from "common/fuel";
-import { BLIP_STYLE_FIELDS } from "@aifivem/lib/shared";
+import { BLIP_STYLE_FIELDS } from "@aicore8/lib/shared";
 
 /** ai-fuel's panel: how fast vehicles burn fuel, how refuelling is paid, where the stations are. */
 export const fuelSchema: PanelSchema = {

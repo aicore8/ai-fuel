@@ -4,8 +4,8 @@ import {
   onClientCallback,
   onClientEvent,
   vehicleNearPlayer,
-} from "@aifivem/lib/server";
-import { distance, fail, readFinite, readId } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { distance, fail, readFinite, readId } from "@aicore8/lib/shared";
 import { EVENTS, HOSE_LENGTH } from "common/fuel";
 import { nozzles, setNozzle, stationAt } from "./nozzles";
 

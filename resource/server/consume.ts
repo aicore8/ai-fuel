@@ -1,5 +1,5 @@
-import { onClientEvent, vehicleNearPlayer } from "@aifivem/lib/server";
-import { readFinite, readId } from "@aifivem/lib/shared";
+import { onClientEvent, vehicleNearPlayer } from "@aicore8/lib/server";
+import { readFinite, readId } from "@aicore8/lib/shared";
 import { EVENTS } from "common/fuel";
 import { fuelOf, fuelState, persist } from "./tank";
 

@@ -6,7 +6,7 @@ import {
   type Job,
   onCache,
   stateNumber,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { EVENTS, FUEL_BAG, readSettings } from "common/fuel";
 import { world } from "./world";
 
